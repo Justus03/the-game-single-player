@@ -28,7 +28,7 @@
    ```
 4. Compile the project:
    ```sh
-   gcc -o thegame main.c -lSDL2 -lSDL2_ttf
+   gcc -o thegame M_game.c game.c $(pkg-config --cflags --libs sdl2 SDL2_ttf)
    ```
 5. Run the game:
    ```sh
