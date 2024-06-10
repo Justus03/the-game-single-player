@@ -1,0 +1,22 @@
+*---> Resumé du jeu:
+
+      The game est un jeu de société de type "jeux de cartes".
+      Il peut etre jouer seul ou avec des amis.
+      Le jeu dispose de 102 cartes au total dont 98 cartes
+      standard numéroté de 2 à 99 et 4 cartes spéciaux
+      appelées cartes de base. Les cartes de bases sont de
+      deux types: des cartes dites montante et des cartes
+      dites déscendantes (2 cartes montantes et 2 cartes
+      déscendantes). Les cartes montantes sont destinées à
+      recevoir les cartes allant de 1-99 et les cartes
+      descendantes sont destinées à recevoir les cartes
+      allant de 100-2.
+
+*---> Déroulement d'une partie:
+
+      Pour une partie en solo, le joueur dispose de 8 cartes
+      initialement qui constitue sa main. Les 90 cartes
+      restantes (cartes standards) constituent la pile tandis
+      que les cartes de bases constituent le terrain de jeu.
+      Le but du jeu est de réussir à posé toutes les cartes de
+      votre main et ceux de la pile sur les cartes de bases.

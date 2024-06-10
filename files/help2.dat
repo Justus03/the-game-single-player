@@ -1,0 +1,20 @@
+*---> Règle de pose des cartes:
+
+      Pour poser une carte vous avez 2 choix possibles:
+      	   * Poser la carte sur la pile de cartes montantes ou
+	   * Poser la carte sur la pile de cartes descendantes
+      Pour poser une carte sur la pile montante la carte à posé
+      doit etre supérieur ou égale à la dernière carte posé et
+      pour poser une carte sur la pile descendante, la carte à
+      posé doit etre inférieur ou égale à la dernière cartes
+      posé.
+
+*---> Fin du jeu:
+
+      La partie se termine lorsque vous n'etes plus en mesure de
+      posé une carte conformément à la règle de pose des cartes
+      (ce qui signifie que vous avez perdu) ou lorsque vous
+      arrivez à déposer toutes cartes sur les cartes de bases
+      (ce qui signifie que vous avez gagné).
+
+      	      	       <--- Bon jeu --->
