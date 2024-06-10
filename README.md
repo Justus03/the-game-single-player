@@ -22,15 +22,16 @@
    git clone https://github.com/yourusername/the-game-single-player.git
    ```
 2. Install SDL2 and SDL2_ttf libraries. You can find the installation instructions on the [SDL2 website](https://www.libsdl.org/download-2.0.php) and the [SDL2_ttf website](https://www.libsdl.org/projects/SDL_ttf/).
-3. Navigate to the project directory:
+3. Ensure `pkg-config` is installed on your system.
+4. Navigate to the project directory:
    ```sh
    cd the-game-single-player
    ```
-4. Compile the project:
+5. Compile the project:
    ```sh
    gcc -o thegame M_game.c game.c $(pkg-config --cflags --libs sdl2 SDL2_ttf)
    ```
-5. Run the game:
+6. Run the game:
    ```sh
    ./thegame
    ```
@@ -39,6 +40,18 @@
 - **C Compiler**: Compatible with GCC or Clang.
 - **SDL2 Library**: Ensure SDL2 is installed on your system.
 - **SDL2_ttf Library**: Ensure SDL2_ttf is installed on your system.
+- **pkg-config**: Ensure pkg-config is installed for managing library flags.
+
+### Screenshots
+![Screenshot 1](screenshots/initial_animation.png)
+![Screenshot 2](screenshots/wait_screen.png)
+*Game Launch*
+
+![Screenshot 3](screenshots/home.png)
+*Game Menu*
+
+![Screenshot 4](screenshots/playing.png)
+*Playing the game*
 
 ### To-Do
 - Configure a build system (Makefile, CMake, etc.).
