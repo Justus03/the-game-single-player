@@ -19,7 +19,7 @@
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/the-game-single-player.git
+   git clone https://github.com/Justus03/the-game-single-player.git
    ```
 2. Install SDL2 and SDL2_ttf libraries. You can find the installation instructions on the [SDL2 website](https://www.libsdl.org/download-2.0.php) and the [SDL2_ttf website](https://www.libsdl.org/projects/SDL_ttf/).
 3. Ensure `pkg-config` is installed on your system.
