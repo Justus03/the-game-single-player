@@ -62,9 +62,6 @@
 ### Contributing
 Feel free to fork the repository and submit pull requests. Contributions, bug reports, and feature requests are welcome!
 
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Enjoy playing "The Game" solo and challenge yourself to achieve the perfect game!
