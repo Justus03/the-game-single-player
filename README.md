@@ -63,9 +63,9 @@
 Feel free to fork the repository and submit pull requests. Contributions, bug reports, and feature requests are welcome!
 
 ### Credits
-- **Kevin Simpore** – Programming, UI Design, Game Logic
+- **[Kevin Simpore](https://github.com/Justus03)** – Lead Programmer, UI Design, Game Logic
 
-- **Ghislain OSE** – Programming, Card design
+- **Ghislain Osée Ki** – Programmer, Card design
 
 - **Elsa Ilboudo** – Code review, Testing
  
