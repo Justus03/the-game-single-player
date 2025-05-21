@@ -62,6 +62,15 @@
 ### Contributing
 Feel free to fork the repository and submit pull requests. Contributions, bug reports, and feature requests are welcome!
 
+### Credits
+- **Kevin Simpore** – Programming, UI Design, Game Logic
+
+- **Ghislain OSE** – Programming, Card design
+
+- **Elsa Ilboudo** – Code review, Testing
+ 
+**Big thanks to the SDL and SDL2_ttf open-source communities for the tools that made this project possible.**
+
 ---
 
 Enjoy playing "The Game" solo and challenge yourself to achieve the perfect game!
